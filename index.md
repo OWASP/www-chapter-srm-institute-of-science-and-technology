@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP SRM Institute of Science and Technology
 tags: OWASP SRMIST KTR
 region: Asia
-meetup-group:
+meetup-group: owasp-srm-institute-science-and-tech
 
 ---
 
