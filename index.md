@@ -27,7 +27,8 @@ This is an example of a Project or Chapter Page.  Please change these items to i
 </div>
 
 ## Welcome
-Include some information here about your chapter
+OWASP SRM Institute of Science and Technology was founded in August 2021. We are a group of passionate college students on a mission to spread Cyber Awareness to the people around, and Sharpening up Cybersecurity skills for our Students of SRMIST-KTR! Events planned on Web/App Security, Penetration Testing, Ethical Hacking and lot more! 
+Join the ARMY to make Cyber Space a Better Place!
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
