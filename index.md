@@ -10,7 +10,8 @@ meetup-group: owasp-srm-institute-science-and-tech
 
 
 ## Welcome
-OWASP SRM Institute of Science and Technology was founded in August 2021. We are a group of passionate college students on a mission to spread Cyber Awareness to the people around, and Sharpening up Cybersecurity skills for our Students of SRMIST-KTR! Events planned on Web/App Security, Penetration Testing, Ethical Hacking and lot more! 
+OWASP SRM Institute of Science and Technology was founded in September 2021. We are a group of passionate college students on a mission to spread Cyber Awareness to the people around, and Sharpening up Cybersecurity skills for our Students of SRMIST-KTR! The chapter presents opportunities to the software community in contributing to secure application development.
+Events planned on Web/App Security, Penetration Testing, Bug Bounty, Ethical Hacking, and a lot more! 
 Join the ARMY to make Cyber Space a Better Place!
 
 ## Participation
@@ -26,4 +27,9 @@ Next Meeting/Event <!-- You should keep this section as it will populate your me
 ---------------------
 {% include chapter_events.html group=page.meetup-group %}
 
+## JOIN OUR ARMY!
+Follow and Support us on
+Instagram
+Twitter
+Youtube
 
