@@ -29,7 +29,7 @@ Next Meeting/Event <!-- You should keep this section as it will populate your me
 
 ## JOIN OUR ARMY!
 Follow and Support us on
-Instagram
-Twitter
-Youtube
+1. Instagram
+2. Twitter
+3. Youtube
 
