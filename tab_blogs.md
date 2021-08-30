@@ -1,3 +1,4 @@
+---
 title: blogs
 displaytext: Blogs/Post
 layout: null
