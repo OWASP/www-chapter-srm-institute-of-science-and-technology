@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP SRM Institute of Science and Technology
+title: OWASP SRM Institute of Science and Technology - Student Chapter
 tags: OWASP SRMIST KTR
 region: Asia
 meetup-group: owasp-srm-institute-science-and-tech
