@@ -32,7 +32,8 @@ Next Meeting/Event <!-- You should keep this section as it will populate your me
 
 ## JOIN OUR ARMY!
 Follow and Support us on
-1. Instagram
-2. Twitter
-3. Youtube
+1. <a href="https://www.instagram.com/owasp.srmist/" target"_blank"> Instagram </a>
+2. <a href="https://twitter.com/owasp_srmistktr?t=fwOxPGLLLQin9rKY5bHcfg&s=09" target"_blank">Twitter  </a>
+3. Linkedin
+4. <a href="https://www.youtube.com/channel/UCNP_wAfI6tEZf2qZSoVmgIg" target="_blank"> YouTube </a>
 
