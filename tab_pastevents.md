@@ -8,4 +8,10 @@ tags: OWASP SRMIST KTR
 ---
 ## Upcoming Events
 ## Official OWASP SRM-KTR Chapter Inauguration 
-<img src="/assets/images/launch poster.png">
+<img src="/assets/images/launch poster.png" width="500" height="500">
+Join Us! <br>
+11th Oct 2021 | 10a.m - 11a.m <br>
+Zoom Details <br>
+ID: 987 6222 8025  <br>
+Passcode: 525893<br>
+                                                                     
