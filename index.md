@@ -29,6 +29,15 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
 {% include chapter_events.html group=page.meetup-group %}
+Upcoming Event
+
+Official Chapter Inauguration!
+When? : 11th OCT 10am - 11am
+Where? : Online 
+ZOOM Details
+Meeting ID: 987 6222 8025
+Passcode: 525893
+Topic: Current trend and future scope in Cybersecurity!
 
 ## JOIN OUR ARMY!
 Follow and Support us on
