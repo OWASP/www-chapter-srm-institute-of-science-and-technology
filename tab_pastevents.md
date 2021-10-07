@@ -8,3 +8,4 @@ tags: OWASP SRMIST KTR
 ---
 ## Upcoming Events
 ## Official OWASP SRM-KTR Chapter Launch 
+<img src="/assets/images/launch poster.png">
