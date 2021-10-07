@@ -31,12 +31,12 @@ Next Meeting/Event <!-- You should keep this section as it will populate your me
 {% include chapter_events.html group=page.meetup-group %}
 Upcoming Event
 
-Official Chapter Inauguration! </br>
-When? : 11th OCT | 10am - 11am </br>
-Where? : Online  </br>
-ZOOM Details </br>
-Meeting ID: 987 6222 8025 </br>
-Passcode: 525893 </br>
+Official Chapter Inauguration! <br>
+When? : 11th OCT | 10am - 11am  <br>
+Where? : Online   <br>
+ZOOM Details  <br>
+Meeting ID: 987 6222 8025 <br>
+Passcode: 525893 <br>
 Topic: Current trend and future scope in Cybersecurity!
 
 ## JOIN OUR ARMY!
