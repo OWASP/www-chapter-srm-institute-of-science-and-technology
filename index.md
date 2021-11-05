@@ -26,7 +26,7 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 
 
 
-Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
+Our Recent Events! <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
 {% include chapter_events.html group=page.meetup-group %}
 Upcoming Event
@@ -34,10 +34,9 @@ Upcoming Event
 Official Chapter Inauguration! <br>
 When? : 11th OCT | 10am - 11am  <br>
 Where? : Online   <br>
-ZOOM Details  <br>
-Meeting ID: 987 6222 8025 <br>
-Passcode: 525893 <br>
 Topic: Current trend and future scope in Cybersecurity!
+Missed the event ? :) <br>
+Don't worry, Gotcha! Click <a href="https://www.youtube.com/watch?v=JOtO1tOjHqw&t=1646s&ab_channel=OWASPSRMIST-KTR"> here!</a>
 
 ## JOIN OUR ARMY!
 Follow and Support us on
