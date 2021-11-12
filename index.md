@@ -34,7 +34,7 @@ Upcoming Event
 Official Chapter Inauguration! <br>
 When? : 11th OCT | 10am - 11am  <br>
 Where? : Online   <br>
-Topic: Current trend and future scope in Cybersecurity!
+Topic: Current trend and future scope in Cybersecurity!<br>
 Missed the event ? :) <br>
 Don't worry, Gotcha! Click <a href="https://www.youtube.com/watch?v=JOtO1tOjHqw&t=1646s&ab_channel=OWASPSRMIST-KTR"> here!</a>
 
