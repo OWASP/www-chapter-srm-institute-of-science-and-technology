@@ -29,7 +29,7 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 Our Recent Events! <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
 
-Upcoming Event:
+Upcoming Event: <br>
 "How to Kick-start in Bug Bounties | Cybersecurity work exposures!" <br>
 Speaker: Sam Joy Herald Immanuel<br>
 Junior Security Consultant at Prompt InfoTech | Security researcher at Hackerone and bugcrowd <br>
@@ -39,7 +39,7 @@ JOIN US LIVE!<br>
 <a href="https://zoom.us/j/94895594470?pwd=SXBLTlI3RWhXNC83KzlXNVRDUDQrZz09"> Event link</a> <br>
 Meeting ID: 948 9559 4470 <br>
 Passcode: 700130 <br>
-
+Past Events: <br>
 Official Chapter Inauguration! <br>
 When? : 11th OCT | 10am - 11am  <br>
 Where? : Online   <br>
