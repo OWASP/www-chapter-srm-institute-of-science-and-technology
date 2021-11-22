@@ -7,9 +7,18 @@ order: 2
 tags: OWASP SRMIST KTR
 ---
 ## Upcoming Events
+Topic: "How to kick-start in Bug Bounties, Cybersecurity work exposures!" <br>
+
+<img src="assets/images/poster social handles.png" width="500" height="500"> <br>
+24th NOV 2021 | 10 a.m - 11 a.m <br>
+Zoom Meetings: <br>
+Link: https://zoom.us/j/94895594470?pwd=SXBLTlI3RWhXNC83KzlXNVRDUDQrZz09 <br>
+Meeting ID: 948 9559 4470 <br>
+Passcode: 700130
+
 ## Past Events
 Official OWASP SRM-KTR Chapter Inauguration 
 <img src="assets/images/poster inauguration final.png" width="500" height="500"> <br>
-11th Oct 2021 | 10a.m - 11a.m <br>
+11th Oct 2021 | 10 a.m - 11 a.m <br>
 Checkout the event <a href="https://www.youtube.com/watch?v=JOtO1tOjHqw&t=1646s&ab_channel=OWASPSRMIST-KTR">here!</a>
                                                                      
