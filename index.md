@@ -30,23 +30,20 @@ Our Recent Events! <!-- You should keep this section as it will populate your me
 ---------------------
 
 ## Upcoming Event: <br>
+Most Awaited, OWASP SRM-KTR Team Recruitment Coming Soon..<br>
+Roles: <br>
+1. Creatives (Poster edit/Video edit)
+2. Technical Content Creator
+3. Operations
+
+## Past Events: <br>
 "How to Kick-start in Bug Bounties | Cybersecurity work exposures!" <br>
 Speaker: Sam Joy Herald Immanuel<br>
 Junior Security Consultant at Prompt InfoTech | Security researcher at Hackerone and bugcrowd <br>
 When? : 24th NOV | 10 a.m - 11 a.m <br>
 Where? : Online, Zoom Meetings <br>
-JOIN US LIVE!<br>
-<a href="https://zoom.us/j/94895594470?pwd=SXBLTlI3RWhXNC83KzlXNVRDUDQrZz09"> Event link</a> <br>
-Meeting ID: 948 9559 4470 <br>
-Passcode: 700130 <br>
-
-## Past Events: <br>
-Official Chapter Inauguration! <br>
-When? : 11th OCT | 10am - 11am  <br>
-Where? : Online   <br>
-Topic: Current trend and future scope in Cybersecurity!<br>
-Missed the event ? :) <br>
-Don't worry, Gotcha! Click <a href="https://www.youtube.com/watch?v=JOtO1tOjHqw&t=1646s&ab_channel=OWASPSRMIST-KTR"> here!</a>
+Missed the Meetup ? :( <br>
+Gotcha! Check out! <a href="https://youtu.be/6We5iBWdCHA" target="_blank">Session Recording! </a>
 
 ## JOIN OUR ARMY!
 Follow and Support us on
