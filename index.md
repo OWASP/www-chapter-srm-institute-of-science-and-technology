@@ -30,11 +30,9 @@ Our Recent Events! <!-- You should keep this section as it will populate your me
 ---------------------
 
 ## Upcoming Event: <br>
-Most Awaited, OWASP SRM-KTR Team Recruitment Coming Soon..<br>
-Roles: <br>
-1. Creatives (Poster edit/Video edit)
-2. Technical Content Creator
-3. Operations
+Most Awaited, OWASP SRM-KTR Team Recruitment is here!<br>
+
+<img src="assets/images/owasp recruitments.png" width="350px" height="400px">
 
 ## Past Events: <br>
 "How to Kick-start in Bug Bounties | Cybersecurity work exposures!" <br>
