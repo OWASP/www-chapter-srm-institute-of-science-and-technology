@@ -3,7 +3,7 @@ title: pastevents
 displaytext: Events
 layout: null
 tab: true
-order: 2
+order: 4
 tags: OWASP SRMIST KTR
 ---
 ## Upcoming Events
