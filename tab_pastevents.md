@@ -7,7 +7,7 @@ order: 3
 tags: OWASP SRMIST KTR
 ---
 ## Upcoming Events
-
+Stay Tuned...
 
 ## Past Events
 Topic: "How to kick-start in Bug Bounties, Cybersecurity work exposures!" <br>
