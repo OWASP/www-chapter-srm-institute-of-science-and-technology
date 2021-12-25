@@ -1,6 +1,6 @@
 ---
-title: speakers
-displaytext: Speakers
+title: team
+displaytext: Team
 layout: null
 tab: true
 order: 1
