@@ -15,6 +15,7 @@ tags: OWASP SRMIST KTR
  ## OWASP SRM Student Leads
  
  <div style="display:inline;">
+   <img src="assets/images/leads/shamunesh.jpg" width="80" height="90" style="border-radius:50%;"> <br>
    <p>SHAMUNESH P<br>
     RA1911030010122<br>
     B.Tech | CSE Cybersecurity<br>
@@ -29,7 +30,7 @@ tags: OWASP SRMIST KTR
     RA1911030010122<br>
     B.Tech | CSE Cybersecurity<br>
     3rd Year</p>
-
+    <img src="assets/images/leads/shyam.jpg" width="80" height="90" style="border-radius:50%;"> <br>
    <p>SHYAAM BABU<br>
     RA1911030010122<br>
     B.Tech | CSE Cybersecurity<br>
