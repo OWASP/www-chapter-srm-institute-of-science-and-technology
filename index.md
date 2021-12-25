@@ -30,11 +30,7 @@ Our Recent Events! <!-- You should keep this section as it will populate your me
 ---------------------
 
 ## Upcoming Event: <br>
-Most Awaited, OWASP SRM-KTR Team Recruitment is here!<br>
-Register Here -> bit.ly/owasp-ktr-2021 <br>
-
-<img src="assets/images/owasp recruitments.png" width="350px" height="400px">
-
+Stay Tuned...
 ## Past Events: <br>
 "How to Kick-start in Bug Bounties | Cybersecurity work exposures!" <br>
 Speaker: Sam Joy Herald Immanuel<br>
