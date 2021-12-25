@@ -10,9 +10,9 @@ tags: OWASP SRMIST KTR
 ## Meet Our Core Community Members!
 <p style="color:red;">"Great things in business are never done by one person.<br>
   They're done by a team of people."</p>
- <p style="float:right; margin-right:10px;">- Steve Jobs</p>
+ <p>- Steve Jobs</p>
  
- ## OWASP SRM Student Leads
+## OWASP SRM Student Leads
  
  <div style="display:inline;">
    <img src="assets/images/leads/shamunesh.jpg" width="80" height="90" style="border-radius:50%;"> <br>
@@ -20,12 +20,12 @@ tags: OWASP SRMIST KTR
     RA1911030010122<br>
     B.Tech | CSE Cybersecurity<br>
     3rd Year</p>
-
+  <div style="float:right;">
    <p>Eshaan Bhardwaj<br>
     RA1911030010122<br>
     B.Tech | CSE Cybersecurity<br>
     3rd Year</p>
-
+  </div>
    <p>PRAVEEN KUMAR K<br>
     RA1911030010122<br>
     B.Tech | CSE Cybersecurity<br>
@@ -37,7 +37,7 @@ tags: OWASP SRMIST KTR
     3rd Year</p>
  </div>
  
- ## Technical Content Creators
+## Technical Content Creators
  <div>
   
   <p>Sadhvi Selvaraj<br>
@@ -63,7 +63,7 @@ tags: OWASP SRMIST KTR
   
  </div>
  
-  ## Creatives
+## Creatives
  <div>
   
   <p>Hamdan Ahmed<br>
@@ -96,7 +96,7 @@ tags: OWASP SRMIST KTR
   
  </div>
 
- ## Operations/PR
+## Operations/PR
  <div>
   
   <p>Siva Supradeep<br>
