@@ -3,7 +3,7 @@ title: speakers
 displaytext: Speakers
 layout: null
 tab: true
-order: 5
+order: 3
 tags: OWASP SRMIST KTR
 ---
 
