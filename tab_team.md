@@ -6,10 +6,9 @@ tab: true
 order: 1
 tags: OWASP SRMIST KTR
 ---
-<link rel="stylesheet" href="styles.css"/>
 
 ## Meet Our Core Community Members!
-<p style="red;">"Great things in business are never done by one person.<br>
+<p style="color:red;">"Great things in business are never done by one person.<br>
   They're done by a team of people."</p>
  <p style="float:right;">- Steve Jobs</p>
  
