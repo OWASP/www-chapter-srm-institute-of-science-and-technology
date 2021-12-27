@@ -15,27 +15,33 @@ tags: OWASP SRMIST KTR
 ## OWASP SRM Student Leads
  
  <div style="display:inline;">
-   <img src="assets/images/leads/shamunesh.jpg" width="80" height="90" style="border-radius:50%;"> <br>
+   <img src="assets/images/leads/shamunesh P.jpg" width="80" height="90" style="border-radius:50%;"> <br>
    <p>SHAMUNESH P<br>
     RA1911030010122<br>
     B.Tech | CSE Cybersecurity<br>
     3rd Year</p>
-  <div style="float:right;">
+ </div>
+  <div style="display:inline-block;">
+    <img src="assets/images/leads/eshaan.jpg" width="80" height="90" style="border-radius:50%;"> <br>
    <p>Eshaan Bhardwaj<br>
     RA1911030010122<br>
     B.Tech | CSE Cybersecurity<br>
     3rd Year</p>
   </div>
+  <div>
+    <img src="assets/images/leads/praveen.jpg" width="80" height="90" style="border-radius:50%;"> <br>
    <p>PRAVEEN KUMAR K<br>
     RA1911030010122<br>
     B.Tech | CSE Cybersecurity<br>
     3rd Year</p>
+  </div>
+  <div style="display:inline-block;">
     <img src="assets/images/leads/shyam.jpg" width="80" height="90" style="border-radius:50%;"> <br>
    <p>SHYAAM BABU<br>
     RA1911030010122<br>
     B.Tech | CSE Cybersecurity<br>
     3rd Year</p>
- </div>
+  </div>
  
 ## Technical Content Creators
  <div>
