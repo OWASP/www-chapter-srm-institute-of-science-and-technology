@@ -7,7 +7,15 @@ order: 3
 tags: OWASP SRMIST KTR
 ---
 ## Upcoming Events
-Stay Tuned...
+Tpoic: "Android Penetration Testing and Lab Setup!" <br>
+An Live 1-hour Practical Session! #HackforGood! <br>
+
+<img src="assets/images/jan 29 meetup.png" width="500" height="500">
+When? : JAN 29 2022 | 10 a.m - 11 a.m<br>
+Where? : Online, Zoom Meetings. (Link Below) <br>
+https://zoom.us/j/93655769735?pwd=NmtLY3ZWTjE2ZGFKSTZOd0lJMzdPZz09 <br>
+Meeting ID: 936 5576 9735 <br>
+Passcode: 349951
 
 ## Past Events
 Topic: "How to kick-start in Bug Bounties, Cybersecurity work exposures!" <br>
