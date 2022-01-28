@@ -10,7 +10,7 @@ tags: OWASP SRMIST KTR
 Tpoic: "Android Penetration Testing and Lab Setup!" <br>
 An Live 1-hour Practical Session! #HackforGood! <br>
 
-<img src="assets/images/jan 29 meetup.png" width="500" height="500">
+<img src="assets/images/jan 29 meetup.png" width="500" height="500"> <br>
 When? : JAN 29 2022 | 10 a.m - 11 a.m<br>
 Where? : Online, Zoom Meetings. (Link Below) <br>
 https://zoom.us/j/93655769735?pwd=NmtLY3ZWTjE2ZGFKSTZOd0lJMzdPZz09 <br>
