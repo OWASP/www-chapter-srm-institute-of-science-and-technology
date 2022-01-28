@@ -12,5 +12,9 @@ Reachout to us over mail or any other platform, If you want to contribute on mak
 
 ## Blogs
 Stay Tuned..
-## Post
-Stay Tuned..
+## Posts
+Check Out for Instagram Handle for regular content on Cybersecurity News, Technical Conents, <br>
+Bug-Bounties, Ethical Hacking, Development and lot more! :v: <br>
+<a href="https://www.instagram.com/owasp.srmist.ktr/" target="_blank">OWASP-SRM Instagram! </a> <br>
+
+<img src="assets/images/owaspinsta.jpg" width="800" height="500"> <br>
