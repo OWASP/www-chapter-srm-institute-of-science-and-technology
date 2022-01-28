@@ -39,6 +39,7 @@ Meeting ID: 936 5576 9735 <br>
 Passcode: 349951
 
 <img src="assets/images/jan 29 meetup.png" width="300" height="300">
+
 ## Past Events: <br>
 "How to Kick-start in Bug Bounties | Cybersecurity work exposures!" <br>
 Speaker: Sam Joy Herald Immanuel<br>
