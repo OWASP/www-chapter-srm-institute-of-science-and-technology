@@ -30,24 +30,17 @@ Our Recent Events! <!-- You should keep this section as it will populate your me
 ---------------------
 
 ## Upcoming Event: <br>
+Coming Soon..
+
+## Past Events: <br>
 "Android Penetration Testing and Lab Setup!" <br>
 An Live 1-hour Practical Session! #HackforGood! <br>
 When? : JAN 29 2022 | 10 a.m - 11 a.m<br>
-Where? : Online, Zoom Meetings. (Link Below) <br>
-https://zoom.us/j/93655769735?pwd=NmtLY3ZWTjE2ZGFKSTZOd0lJMzdPZz09 <br>
-Meeting ID: 936 5576 9735 <br>
-Passcode: 349951
+Where? : Online, Zoom Meetings.<br>
 
 <img src="assets/images/jan 29 meetup.png" width="300" height="300">
-
-## Past Events: <br>
-"How to Kick-start in Bug Bounties | Cybersecurity work exposures!" <br>
-Speaker: Sam Joy Herald Immanuel<br>
-Junior Security Consultant at Prompt InfoTech | Security researcher at Hackerone and bugcrowd <br>
-When? : 24th NOV | 10 a.m - 11 a.m <br>
-Where? : Online, Zoom Meetings <br>
 Missed the Meetup ? :( <br>
-Gotcha! Check out! <a href="https://youtu.be/6We5iBWdCHA" target="_blank">Session Recording! </a>
+Gotcha! Check out! <a href="https://www.youtube.com/watch?v=VxKVaWB1NUk&t=64s&ab_channel=OWASPSRMIST-KTR" target="_blank">Session Recording! </a>
 
 ## JOIN OUR ARMY!
 Follow and Support us on
