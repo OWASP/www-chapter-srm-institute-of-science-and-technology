@@ -38,7 +38,7 @@ An Live 1-hour Practical Session! #HackforGood! <br>
 When? : JAN 29 2022 | 10 a.m - 11 a.m<br>
 Where? : Online, Zoom Meetings.<br>
 
-<img src="assets/images/jan 29 meetup.png" width="300" height="300">
+<img src="assets/images/jan 29 meetup.png" width="300" height="300"><br>
 Missed the Meetup ? :( <br>
 Gotcha! Check out! <a href="https://www.youtube.com/watch?v=VxKVaWB1NUk&t=64s&ab_channel=OWASPSRMIST-KTR" target="_blank">Session Recording! </a>
 
