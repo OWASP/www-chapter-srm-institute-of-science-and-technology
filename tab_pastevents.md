@@ -7,8 +7,13 @@ order: 3
 tags: OWASP SRMIST KTR
 ---
 ## Upcoming Events
-Checkout our Instagram!
+Topic: "Introduction to Web Application Security!" <br>
+An Live 1-hour Practical Session! #HackforGood! <br>
 
+<img src="assets/images/feb-meetup.png" width="500" height="500"> <br>
+When? : FEB 25 2022 | 9 a.m - 10 a.m<br>
+Where? : Online, Google Meet | Link: https://meet.google.com/wbc-hovu-nsu <br>
+See you all tomorrow!
 ## Past Events
 Topic: "Android Penetration Testing and Lab Setup!" <br>
 An Live 1-hour Practical Session! #HackforGood! <br>
