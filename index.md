@@ -30,9 +30,14 @@ Our Recent Events! <!-- You should keep this section as it will populate your me
 ---------------------
 
 ## Upcoming Event: <br>
-Coming Soon..
+"Introduction to Web Application Security!" <br>
+An Live 1-hour Practical Session! #HackforGood! <br>
+When? : FEB 25 2022 | 9 a.m - 10 a.m<br>
+Where? : Online, Google Meet | Link https://meet.google.com/wbc-hovu-nsu<br>
 
-## Past Events: <br>
+<img src="assets/images/feb-meetup.png" width="300" height="300"><br>
+
+## Past Event: <br>
 "Android Penetration Testing and Lab Setup!" <br>
 An Live 1-hour Practical Session! #HackforGood! <br>
 When? : JAN 29 2022 | 10 a.m - 11 a.m<br>
