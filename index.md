@@ -30,22 +30,18 @@ Our Recent Events! <!-- You should keep this section as it will populate your me
 ---------------------
 
 ## Upcoming Event: <br>
+
+Coming Soon...
+
+## Past Event: <br>
 "Introduction to Web Application Security!" <br>
 An Live 1-hour Practical Session! #HackforGood! <br>
 When? : FEB 25 2022 | 9 a.m - 10 a.m<br>
 Where? : Online, Google Meet | Link https://meet.google.com/wbc-hovu-nsu<br>
 
 <img src="assets/images/feb-meetup.png" width="300" height="300"><br>
-
-## Past Event: <br>
-"Android Penetration Testing and Lab Setup!" <br>
-An Live 1-hour Practical Session! #HackforGood! <br>
-When? : JAN 29 2022 | 10 a.m - 11 a.m<br>
-Where? : Online, Zoom Meetings.<br>
-
-<img src="assets/images/jan 29 meetup.png" width="300" height="300"><br>
 Missed the Meetup ? :( <br>
-Gotcha! Check out! <a href="https://www.youtube.com/watch?v=VxKVaWB1NUk&t=64s&ab_channel=OWASPSRMIST-KTR" target="_blank">Session Recording! </a>
+Gotcha! Check out! <a href="https://www.youtube.com/watch?v=09nKPgpPPPY&t=14s&ab_channel=OWASPSRMIST-KTR" target="_blank">Session Recording! </a>
 
 ## JOIN OUR ARMY!
 Follow and Support us on
