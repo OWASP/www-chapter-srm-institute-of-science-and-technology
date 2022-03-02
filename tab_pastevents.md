@@ -8,7 +8,9 @@ tags: OWASP SRMIST KTR
 ---
 ## Upcoming Events
 
-See you all tomorrow!
+Stay Tuned!
+Follow us on <a href="https://www.instagram.com/owasp.srmist/" target="_blank"> Instagram! </a>
+
 ## Past Events
 
 Topic: "Introduction to Web Application Security!" <br>
