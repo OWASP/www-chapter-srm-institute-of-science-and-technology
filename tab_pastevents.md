@@ -7,14 +7,18 @@ order: 3
 tags: OWASP SRMIST KTR
 ---
 ## Upcoming Events
+
+See you all tomorrow!
+## Past Events
+
 Topic: "Introduction to Web Application Security!" <br>
 An Live 1-hour Practical Session! #HackforGood! <br>
 
 <img src="assets/images/feb-meetup.png" width="500" height="500"> <br>
 When? : FEB 25 2022 | 9 a.m - 10 a.m<br>
-Where? : Online, Google Meet | Link: https://meet.google.com/wbc-hovu-nsu <br>
-See you all tomorrow!
-## Past Events
+Where? : Online, Google Meet <br>
+Check out! <a href="https://www.youtube.com/watch?v=09nKPgpPPPY&t=14s&ab_channel=OWASPSRMIST-KTR" target="_blank">Session Recording! </a><br>
+
 Topic: "Android Penetration Testing and Lab Setup!" <br>
 An Live 1-hour Practical Session! #HackforGood! <br>
 
