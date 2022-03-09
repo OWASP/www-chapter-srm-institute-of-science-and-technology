@@ -29,11 +29,11 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 Our Recent Events! <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
 
-## Upcoming Event: <br>
+## Upcoming Meetup: <br>
 
 Coming Soon...
 
-## Past Event: <br>
+## Past Meetups: <br>
 "Introduction to Web Application Security!" <br>
 An Live 1-hour Practical Session! #HackforGood! <br>
 When? : FEB 25 2022 | 9 a.m - 10 a.m<br>
