@@ -26,7 +26,7 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 
 
 
-Our Recent Events! <!-- You should keep this section as it will populate your meetup events -->
+Our Chapter Meetings! <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
 
 ## Upcoming Meetup: <br>
