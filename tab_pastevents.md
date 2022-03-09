@@ -1,17 +1,17 @@
 ---
 title: pastevents
-displaytext: Events
+displaytext: Meetups
 layout: null
 tab: true
 order: 3
 tags: OWASP SRMIST KTR
 ---
-## Upcoming Events
+## Upcoming Meetups
 
 Stay Tuned!
 Follow us on <a href="https://www.instagram.com/owasp.srmist/" target="_blank"> Instagram! </a>
 
-## Past Events
+## Past Meetups
 
 Topic: "Introduction to Web Application Security!" <br>
 An Live 1-hour Practical Session! #HackforGood! <br>
